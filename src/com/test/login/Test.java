@@ -22,4 +22,11 @@ public int addTwoNumbers(){
 
 }
 
+public int subtractTwoNumbers(){
+  result = a-b;
+
+  return result;
+
+}
+
 }
