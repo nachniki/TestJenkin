@@ -7,6 +7,8 @@ System.out.println("main method Test classesssssssssss");
 
 public static void main(String arg[]){
 System.out.println("main method Test class");
+System.out.println("main method Test system dot out dot println");
+
 
 }
 
